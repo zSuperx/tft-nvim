@@ -11,6 +11,10 @@ function M.toggle()
     replacement = "True"
   elseif word == "True" then
     replacement = "False"
+  elseif word == "FALSE" then
+    replacement = "TRUE"
+  elseif word == "TRUE" then
+    replacement = "FALSE"
   end
 
   if replacement ~= "bruh" then
