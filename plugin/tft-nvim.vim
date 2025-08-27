@@ -1,7 +1,9 @@
-" Title:        Example Plugin
-" Description:  A plugin to provide an example for creating Neovim plugins.
-" Last Change:  8 November 2021
-" Maintainer:   Example User <https://github.com/example-user>
+" Title:        True False Toggle 
+" Description:  A plugin to toggle instances of true/false under the cursor.
+" Last Change:  08/26/2025
+" Maintainer:   zSuper <https://github.com/zSuperx>
+
+" I got no clue how this file works btw, take that with a grain of salt.
 
 " Prevents the plugin from being loaded multiple times. If the loaded
 " variable exists, do nothing more. Otherwise, assign the loaded
