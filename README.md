@@ -1,7 +1,8 @@
 # tft-nvim (true/false toggle)
 
-This plugin just swaps `true` and `false`. Nothing else. No fancy custom word
-swap mappings. No customizability. Just pure, anti-slop function over form.
+This plugin just swaps `true` and `false` under the cursor. Nothing else. 
+No fancy custom word swap mappings. No customizability. Just pure, anti-slop
+function over form.
 
 ## Usage
 
@@ -11,9 +12,9 @@ call this automatically :P
 
 Casing will be recognized and preserved for the following:
 
-- `true <-> false`
-- `True <-> False`
-- `TRUE <-> FALSE`
+- `true` ↔️ `false`
+- `True` ↔️ `False`
+- `TRUE` ↔️ `FALSE`
 
 
 ## Installing
