@@ -1,7 +1,7 @@
 # tft-nvim (true/false toggle)
 
 This plugin just swaps `true` and `false`. Nothing else. No fancy custom word
-swap mappings. No customizability. Just pure, slopless function over form.
+swap mappings. No customizability. Just pure, anti-slop function over form.
 
 ## Usage
 
